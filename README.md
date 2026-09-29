@@ -73,6 +73,12 @@ Take control of the camera viewport with the following keyboard commands:
 
 ---
 
-## 👨‍💻 Author
-
+## 📫 Author & Contact
 **Bishal Roy** 
+*Feel free to reach out if you have any questions about the project, suggestions for improvement, or if you just want to connect!* 🤝
+* 📧 **Email:** [roybishal4004@gmail.com](mailto:roybishal4004@gmail.com)
+
+---
+
+## 📄 License
+This project is open-source and available under the **MIT License**. Feel free to explore, learn, and modify!
