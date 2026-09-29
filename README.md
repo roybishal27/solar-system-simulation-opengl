@@ -1,10 +1,3 @@
-Ami antorikvabe dukkhito jodi aage kono confusion hoye thake! Haa, ekdom parbo.
-
-Niche apnar shompurno `README.md` file-er code **ekti matro code block-er moddhe** diye dilam. Ete ১ theke ۳ no step, table, chobi shobkichu eksathe thikvabe kora ache.
-
-Apni shudhu apnar VS Code-er `README.md` file-er shob lekha muche feliye (Delete kore), nicher ei block-ti theke shob copy kore paste kore din:
-
-```markdown
 # 🌌 3D Solar System Simulation
 
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
